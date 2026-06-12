@@ -168,9 +168,10 @@
 
 
 
-// Ques 15
+//  Ques 15
 // function maxElement(arr){
 //     return Math.max(...arr);   // spread operator inhe  20 34 99 alag alag kr deta h 
 // }
 // console.log(maxElement([20,34,87,97,99]));
+
 
